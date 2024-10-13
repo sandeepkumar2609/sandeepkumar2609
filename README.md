@@ -57,6 +57,28 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 
 ---
 
+### 4. [Home Warranty App](https://play.google.com/store/apps/details?id=com.libertyhomeguard.cupo)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.libertyhomeguard.cupo)
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/us/app/liberty-home-guard/id1631964576)
+
+- **Description:** A US-based home warranty app enabling customers to purchase policies, file claims, and track appliance repairs, with dedicated interfaces for technicians and real-time updates throughout the service process.
+- **Role:**
+  - **Lead Developer**: Designed and implemented core features using Flutter/Dart with Provider for state management.
+  - **Backend Integrations**: Integrated APIs for real-time syncing of data.
+  - **UI/UX**: Ensured a smooth user experience across Android and iOS platforms.
+- **Features:**  
+  - **Policy Management**: Customers can browse and purchase warranty policies for home appliances.
+  - **Claim Filing**: Submit and track claims for diagnostics, repairs, or replacements.
+  - **Real-Time Updates & Alerts**: Customers receive alerts for technician arrival, diagnostics, repairs, and each service stage via Firebase push notifications.
+  - **AI Troubleshooting Guide**: Provide AI-driven solutions for common appliance issues.
+  - **In-App Reviews**: Collect feedback via In-App Review (Android) and App Store Review (iOS).
+  - **Multi-Device Support**: Optimized for both mobile and tablet interfaces.
+  - **Multiple Payment Options**: Pay using Credit Card, PayPal, and Apple Pay.
+I - **Invoice PDF Download**: Generate and download invoices for claims and services.
+
+---
+
+
 ## 🛠️ Skills & Tools
 - **Languages:** Dart, Kotlin, Swift, Java  
 - **Frameworks:** Flutter, GetX  
