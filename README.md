@@ -153,12 +153,25 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.mycompany.indm&hl=en_US)
 
 - **Description:** An innovative app that connects users across various industries and networks, allowing them to match their needs (Asks) with what they can offer (Gives) across different categories.
-- **Role:**  Full-stack development using **Native Kotlin/Java**.
+- **Role:**  Designed and implemented core features using **Flutter/Dart** with **Firebase Firestore**.
 - **Features:**  
   - **User Profiles**: Create detailed profiles to showcase your skills, offerings, and needs.
   - **Category Matching**: Easily navigate and match your Asks and Gives across various industry categories.
   - **Networking Opportunities**: Connect with professionals and businesses within your industry and beyond.
   - **Real-Time Updates**: Leverage Firebase Firestore for real-time data synchronization and updates.
+
+---
+
+### 11. [Warehouse Management System (WMS) App](https://play.google.com/store/apps/details?id=edominer.com.expandwms)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=edominer.com.expandwms)
+
+- **Description:** A robust Warehouse Management System app designed for item-level tracking and efficient warehouse operations, supporting barcode scanning for optimized binning and picking processes.
+- **Role:**  Designed and implemented core features using **Native Kotlin/Java**. 
+- **Features:**  
+  - **Barcode Support**: Utilize barcode scanning for accurate tracking and management of products.
+  - **Real-Time Inventory Reconciliation**: Access up-to-date inventory records anytime for precise inventory management.
+  - **Dashboard for Key Users**: Key data and metrics displayed on the home screen dashboard for quick insights.
+  - **Offline Data Synchronization**: Input data in offline mode within warehouses and sync it later when internet access is available.
 
 ---
 
