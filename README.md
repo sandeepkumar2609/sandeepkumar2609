@@ -43,7 +43,10 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.pmg.school)
 
 - **Description:** A cashless meal management app for school canteens, enabling students and staff to book meals using RFID cards and track daily menus seamlessly.
-- **Role:** Full-stack development using **Native Kotlin/Java**.
+- **Role:**
+  - **Lead Developer**: Designed and implemented core features using Flutter/Dart with GetX for state management.
+  - **Backend Integrations**: Integrated APIs for real-time syncing of meals, payments.
+  - **UI/UX**: Ensured a smooth user experience across Android and iOS platforms.
 - **Features:**  
   - **Student & Staff Registration**: Register users with Civil ID details for cashless transactions.
   - **Meal Booking**: Book meals in advance with options for students and staff.
