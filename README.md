@@ -23,7 +23,7 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 
 ---
 
-### 1. [POS App for Retail Sales & Returns](https://play.google.com/store/apps/details?id=com.edominer.expandpos)  
+### 2. [POS App for Retail Sales & Returns](https://play.google.com/store/apps/details?id=com.edominer.expandpos)  
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandpos)
 
 - **Description:** A feature-rich POS app optimized for retail sales, returns, and seamless checkout experiences, designed specifically for tablets.
@@ -39,6 +39,21 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 
 ---
 
+### 3. [School Meal Delivery System App](https://play.google.com/store/apps/details?id=com.pmg.school)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.pmg.school)
+
+- **Description:** A cashless meal management app for school canteens, enabling students and staff to book meals using RFID cards and track daily menus seamlessly.
+- **Role:** Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **Student & Staff Registration**: Register users with Civil ID details for cashless transactions.
+  - **Meal Booking**: Book meals in advance with options for students and staff.
+  - **Menu & Pricing Overview**: Display daily menus, prices across main course, dessert, drink, salad, and snacks.
+  - **Payment Integration**: Process payments via Bookeey and UPayment gateways.
+  - **Centralized Database**: Synchronize meal bookings across multiple ticketing terminals.
+  - **Monthly Meal Planner**: View available meals for each day of the month with pricing details.
+
+---
+
 ## 🛠️ Skills & Tools
 - **Languages:** Dart, Kotlin, Swift, Java  
 - **Frameworks:** Flutter, GetX  
@@ -48,7 +63,7 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 ---
 
 ## 📫 Let's Connect
-- **GitHub:** [@your-username](https://github.com/sandeepkumar2609)  
+- **GitHub:** [Sandeep Kumar Giri](https://github.com/sandeepkumar2609)  
 - **LinkedIn:** [Sandeep Kumar](www.linkedin.com/in/sandeep-kumar-71b48978)  
 - **Email:** imsandeep28@gmail.com
 
