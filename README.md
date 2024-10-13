@@ -1,28 +1,21 @@
 # 📱 Hi 👋 I'm Sandeep Kumar Giri
 
-I'm a passionate **Mobile App Developer** specializing in **native and hybrid applications**. Whether it's a sleek **Flutter app** or a **native Kotlin/Swift project**, I bring ideas to life with smooth user experiences. Check out some of my published apps below!
+I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Applications**. Whether it's a sleek **Flutter app** or a **Native Kotlin/Java/Swift project**, I bring ideas to life with smooth user experiences. Check out some of my published apps below!
 
 ---
 
 ## 🚀 Published Apps
 
-### 1. [MyApp](https://play.google.com/store/apps/details?id=com.myapp)  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.myapp)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/app/myapp/id1234567890)
+### 1. [Sales Management App](https://play.google.com/store/apps/details?id=com.edominer.expandsales)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandsales)  
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/expand-sales/id1623785250)
 
-- **Description:** A productivity app to track daily tasks and goals.
-- **Role:** Full-stack development using **Flutter** and **Firebase**.
-- **Features:**  
-  - In-app reviews and push notifications  
-  - Custom animations for smooth interactions  
+- **Description:** A comprehensive sales management app designed to empower field agents with tools for lead capturing, follow-ups, market surveys, and seamless access to product information. The app integrates push notifications to keep teams updated, offers a KPI dashboard for performance tracking, and provides PDF reports for ledger and accounts management.
+- **Role:** Full-stack development using **Native Kotlin/Java/Swift**. 
 
 ---
 
-### 2. [AnotherApp](https://play.google.com/store/apps/details?id=com.anotherapp)
-- **Type:** Freelance Project  
-- **Description:** A feature-packed e-commerce app with real-time notifications.  
-- **Tech Stack:** Kotlin, Firebase, Stripe API  
-- **Role:** Integrated payment gateway and built core features.
+
 
 ---
 
@@ -35,9 +28,9 @@ I'm a passionate **Mobile App Developer** specializing in **native and hybrid ap
 ---
 
 ## 📫 Let's Connect
-- **GitHub:** [@your-username](https://github.com/your-username)  
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)  
-- **Email:** yourname@example.com  
+- **GitHub:** [@your-username](https://github.com/sandeepkumar2609)  
+- **LinkedIn:** [Sandeep Kumar](www.linkedin.com/in/sandeep-kumar-71b48978)  
+- **Email:** imsandeep28@gmail.com
 
 ---
 
