@@ -10,8 +10,16 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandsales)  
 [![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/expand-sales/id1623785250)
 
-- **Description:** A comprehensive sales management app designed to empower field agents with tools for lead capturing, follow-ups, market surveys, and seamless access to product information. The app integrates push notifications to keep teams updated, offers a KPI dashboard for performance tracking, and provides PDF reports for ledger and accounts management.
-- **Role:** Full-stack development using **Native Kotlin/Java/Swift**. 
+- **Description:** A robust sales management app for capturing leads, conducting market surveys, and providing real-time insights.
+- **Role:** Full-stack development using Native Kotlin/Java/Swift and OpenCV for image processing. .
+- **Features:**  
+  - Lead Capturing & Follow-ups: Capture leads on the go with automatic follow-up reminders.
+  - Market Survey Tool: Conduct real-time surveys to gather market insights.
+  - Push Notifications: Stay updated with alerts for new leads and follow-ups.
+  - KPI Dashboard: Visualize sales performance and lead conversions.
+  - PDF Reports: Generate downloadable ledger and account reports.
+  - Product Catalogue & Image Search: Easily browse products and search using images.
+  - Assets Reconciliation: Track and manage physical assets efficiently.  
 
 ---
 
