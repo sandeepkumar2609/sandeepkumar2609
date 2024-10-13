@@ -1,6 +1,6 @@
-# 📱 My Developer Portfolio
+# 📱 Hi 👋 I'm Sandeep Kumar Giri
 
-Hi there! 👋 I'm a passionate **mobile app developer** specializing in **native and hybrid applications**. Whether it's a sleek **Flutter app** or a **native Kotlin/Swift project**, I bring ideas to life with smooth user experiences. Check out some of my published apps below!
+I'm a passionate **Mobile App Developer** specializing in **native and hybrid applications**. Whether it's a sleek **Flutter app** or a **native Kotlin/Swift project**, I bring ideas to life with smooth user experiences. Check out some of my published apps below!
 
 ---
 
