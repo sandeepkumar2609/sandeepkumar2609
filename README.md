@@ -78,6 +78,90 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ---
 
+### 5. [HR management App](https://play.google.com/store/apps/details?id=com.edominer.expandhr)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandhr) 
+
+- **Description:** A comprehensive HR management app for tracking attendance, managing leaves, visits, and employee applications with real-time updates.
+- **Role:** Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **Daily Attendance with GPS**: Mark attendance with real-time location tracking.
+  - **Leave Management**: Apply for leave, view leave balance, history, and receive status updates via push notifications.
+  - **Visit Log**: Check-in/out for official visits with time and GPS location.
+  - **Claims & Advance Applications**: Submit requests for salary advances or reimbursements.
+  - **Out-of-Office Tracking**: Log presence for on-site jobs and off-premise tasks.
+
+---
+
+### 6. [Flight Booking App](https://play.google.com/store/apps/details?id=com.edominer.flightbooking.hawaiaddaa)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.flightbooking.hawaiaddaa)  
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/hawai-addaa/id1618586606)
+
+- **Description:** A seamless flight booking app for Android and iOS, offering real-time updates and smooth user experience for travelers.
+- **Role:**  Designed and implemented core features using **Native Kotlin/Java** and webview.
+- **Features:**  
+  - **Flight Search & Booking**: Browse and book flights quickly with a user-friendly interface.
+  - **Payment Handling**: Secure payments through multiple options (cards, UPI, wallets).
+  - **Push Notifications**: Receive real-time updates on bookings, delays, and offers.
+  - **Multi-Platform Support**: Available for both Android and iOS with optimized performance.
+
+---
+
+### 7. [Dealer Portal Mobile App for E-commerce](https://play.google.com/store/apps/details?id=edominer.com.expanddealerapp)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=edominer.com.expanddealerapp)  
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/dealer-portal-app/id1612207118)
+
+- **Description:** A mobile portal for dealers to manage orders, track payments, and access ledgers, designed to streamline B2B operations for e-commerce businesses.
+- **Role:**  Designed and implemented core features using **Native Kotlin/Java** and webview.
+- **Features:**  
+  - **Order Management**: View, place, and track orders in real-time.
+  - **Ledger Access**: Monitor transaction history, outstanding payments, and account balances.
+  - **Push Notifications**: Receive alerts on order status, new offers, and payment reminders.
+  - **Multi-Platform Support**: Available on Android and iOS with a smooth, responsive interface.
+
+---
+
+### 8. [Daily Production App](https://play.google.com/store/apps/details?id=com.edominer.productionapp)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.productionapp)  
+
+- **Description:** A manufacturing app for real-time updates on inward and outward production, helping streamline processes, boost accountability, and reduce costs by minimizing ERP reporting delays.
+- **Role:**  Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **Production Updates**: Log inward and outward production directly from the floor.
+  - **Real-Time Sync**: Avoid delays by instantly updating data to ERP systems.
+  - **Process Tracking**: Monitor production flow, increasing transparency and accountability.
+  - **Cost Optimization**: Streamline operations to reduce overheads and improve efficiency.
+  - **Push Notifications**: Receive alerts on production milestones and pending tasks.
+
+---
+
+### 9. [Service Engineer Task Manager App](https://play.google.com/store/apps/details?id=com.edominer.expandservice)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandservice)  
+
+- **Description:** A task management app for service engineers, enabling efficient organization of tasks, tracking of performance, and enhancing productivity in field service operations.
+- **Role:**  Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **Task Overview:**  Access a list of assigned tasks with crucial product and customer details.  
+  - **Customer Feedback Collection:**  Capture customer feedback and generate happy codes for completed services.  
+  - **Auto-Generated Checklist:**  Create a checklist automatically for each task to ensure all steps are completed.  
+  - **GPS Location Registration:**  Automatically register the current location when tasks are accepted or marked as complete.  
+  - **Performance Monitoring:**  Track task completion and performance metrics to improve efficiency.
+
+---
+
+### 10. [Industry Connection App](https://apps.apple.com/in/app/dreamz-metaverse/id6450663287)  
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/dreamz-metaverse/id6450663287) 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.mycompany.indm&hl=en_US)  
+
+- **Description:** An innovative app that connects users across various industries and networks, allowing them to match their needs (Asks) with what they can offer (Gives) across different categories.
+- **Role:**  Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **User Profiles**: Create detailed profiles to showcase your skills, offerings, and needs.
+  - **Category Matching**: Easily navigate and match your Asks and Gives across various industry categories.
+  - **Networking Opportunities**: Connect with professionals and businesses within your industry and beyond.
+  - **Real-Time Updates**: Leverage Firebase Firestore for real-time data synchronization and updates.
+
+---
+
 
 ## 🛠️ Skills & Tools
 - **Languages:** Dart, Kotlin, Swift, Java  
