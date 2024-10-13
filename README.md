@@ -58,7 +58,7 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 ---
 
 ### 4. [Home Warranty App](https://play.google.com/store/apps/details?id=com.libertyhomeguard.cupo)  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.libertyhomeguard.cupo)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.libertyhomeguard.cupo)  
 [![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/us/app/liberty-home-guard/id1631964576)
 
 - **Description:** A US-based home warranty app enabling customers to purchase policies, file claims, and track appliance repairs, with dedicated interfaces for technicians and real-time updates throughout the service process.
