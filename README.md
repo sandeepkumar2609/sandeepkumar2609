@@ -11,7 +11,7 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 [![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/expand-sales/id1623785250)
 
 - **Description:** A robust sales management app for capturing leads, conducting market surveys, and providing real-time insights.
-- **Role:** Full-stack development using **Native Kotlin/Java/Swift** and **OpenCV** for image processing. .
+- **Role:** Full-stack development using **Native Kotlin/Java/Swift** and **OpenCV** for image processing.
 - **Features:**  
   - **Lead Capturing & Follow-ups**: Capture leads on the go with automatic follow-up reminders.
   - **Market Survey Tool**: Conduct real-time surveys to gather market insights.
@@ -23,7 +23,19 @@ I'm a passionate **Mobile App Developer** specializing in **Native and Hybrid Ap
 
 ---
 
+### 1. [POS App for Retail Sales & Returns](https://play.google.com/store/apps/details?id=com.edominer.expandpos)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.edominer.expandpos)
 
+- **Description:** A feature-rich POS app optimized for retail sales, returns, and seamless checkout experiences, designed specifically for tablets.
+- **Role:** Full-stack development using **Native Kotlin/Java**.
+- **Features:**  
+  - **Retail Sales & Returns**: Process sales and manage returns effortlessly.
+  - **Tablet-Specific UI**: Optimized interface for tablets for easy in-store use.
+  - **Coupon Code Support**: Apply discount codes during checkout.
+  - **Sales Overview with Graphs**: Track daily, weekly, and monthly sales trends with visual charts.
+  - **Payment Stats**: View total sales and payment breakdown (cash, COD, card, UPI).
+  - **Product Management**: Display product details with images, stock levels, prices, and taxes.
+  - **Invoice Management**: Download and email invoices directly from the app. 
 
 ---
 
