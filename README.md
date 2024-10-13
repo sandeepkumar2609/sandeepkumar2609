@@ -149,8 +149,8 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 ---
 
 ### 10. [Industry Connection App](https://apps.apple.com/in/app/dreamz-metaverse/id6450663287)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/dreamz-metaverse/id6450663287) 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.mycompany.indm&hl=en_US)  
+[![App Store](https://img.shields.io/badge/App_Store-Download-green)](https://apps.apple.com/in/app/dreamz-metaverse/id6450663287)  
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-blue)](https://play.google.com/store/apps/details?id=com.mycompany.indm&hl=en_US)
 
 - **Description:** An innovative app that connects users across various industries and networks, allowing them to match their needs (Asks) with what they can offer (Gives) across different categories.
 - **Role:**  Full-stack development using **Native Kotlin/Java**.
