@@ -186,7 +186,21 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/android-os.png"/> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-os.png"/> 
+<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+<img src="https://img.icons8.com/color/48/000000/dart.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png"/> 
+<img src="https://img.icons8.com/color/48/000000/xcode.png"/> 
+<img src="https://img.icons8.com/color/48/000000/swift.png"/> 
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
+<img src="https://img.icons8.com/color/48/000000/postman-api.png"/> 
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> 
+<img src="https://img.icons8.com/offices/40/000000/java-eclipse.png"/> 
+<img src="https://img.icons8.com/color/48/000000/room.png"/>
+
 
 ---
 
