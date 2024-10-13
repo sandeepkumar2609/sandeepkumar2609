@@ -175,15 +175,6 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ---
 
-
-## 🛠️ Skills & Tools
-- **Languages:** Dart, Kotlin, Swift, Java  
-- **Frameworks:** Flutter, GetX  
-- **Backend:** Firebase, RESTful APIs  
-- **Tools:** Android Studio, Xcode, Postman  
-
----
-
 ### Languages and Tools:
 
 [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>](https://www.android.com) 
@@ -211,4 +202,4 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 ---
 
 ### 💡 Fun Fact
-When I’m not coding, I’m probably binge-watching sci-fi or hiking somewhere scenic! 🌲 🚀
+When I’m not coding, you can find me on the pitch playing cricket or cheering for my favorite team during a nail-biting match! 🌲 🚀
