@@ -184,6 +184,12 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ---
 
+### Languages and Tools:
+
+<img src="https://img.icons8.com/color/48/000000/android-os.png"/> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+
+---
+
 ## 📫 Let's Connect
 - **GitHub:** [Sandeep Kumar Giri](https://github.com/sandeepkumar2609)  
 - **LinkedIn:** [Sandeep Kumar](www.linkedin.com/in/sandeep-kumar-71b48978)  
