@@ -186,21 +186,20 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/android-os.png"/> 
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
-<img src="https://img.icons8.com/color/48/000000/dart.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png"/> 
-<img src="https://img.icons8.com/color/48/000000/xcode.png"/> 
-<img src="https://img.icons8.com/color/48/000000/swift.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
-<img src="https://img.icons8.com/color/48/000000/postman-api.png"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> 
-<img src="https://img.icons8.com/offices/40/000000/java-eclipse.png"/> 
-<img src="https://img.icons8.com/color/48/000000/room.png"/>
-
+[<img src="https://img.icons8.com/color/48/000000/android-os.png"/>](https://www.android.com) 
+[<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>](https://developer.android.com/studio) 
+[<img src="https://img.icons8.com/color/48/000000/flutter.png"/>](https://flutter.dev) 
+[<img src="https://img.icons8.com/color/48/000000/dart.png"/>](https://dart.dev) 
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com) 
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org) 
+[<img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png"/>](https://www.apple.com/macos/) 
+[<img src="https://img.icons8.com/color/48/000000/xcode.png"/>](https://developer.apple.com/xcode/) 
+[<img src="https://img.icons8.com/color/48/000000/swift.png"/>](https://developer.apple.com/swift/) 
+[<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](https://firebase.google.com) 
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>](https://www.postman.com) 
+[<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>](https://www.microsoft.com/en-us/sql-server) 
+[<img src="https://img.icons8.com/offices/40/000000/java-eclipse.png"/>](https://www.eclipse.org) 
+[<img src="https://img.icons8.com/color/48/000000/room.png"/>](https://developer.android.com/training/data-storage/room)
 
 ---
 
