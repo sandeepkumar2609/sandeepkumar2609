@@ -175,7 +175,7 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ---
 
-### 12. [Ride Booking App – User & Partner/Driver)](https://play.google.com/store/apps/details?id=com.digitalride.user&hl=en_IN)
+### 12. [Ride Booking App – User & Partner/Driver](https://play.google.com/store/apps/details?id=com.digitalride.user&hl=en_IN)
 
 - **Description:** A comprehensive ride-booking solution featuring two apps—one for users to book rides and another for partners/drivers to manage ride requests. Both apps include modern features for seamless operation and communication.
 - **Role:** Designed and implemented core functionalities using **Native Kotlin/Java**.
@@ -200,6 +200,7 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
   - **Firebase Realtime Database Integration**: For swift updates on booking statuses and partner locations.
   - **Availability Toggle**: Easily set availability status to receive bookings.
   - **Performance Dashboard**: Key metrics and earnings displayed in an easy-to-understand format.
+    
 
 ---
 
