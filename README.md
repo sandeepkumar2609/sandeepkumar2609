@@ -175,6 +175,34 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 
 ---
 
+### 12. [Ride Booking App – User & Partner/Driver)](https://play.google.com/store/apps/details?id=com.digitalride.user&hl=en_IN)
+
+- **Description:** A comprehensive ride-booking solution featuring two apps—one for users to book rides and another for partners/drivers to manage ride requests. Both apps include modern features for seamless operation and communication.
+- **Role:** Designed and implemented core functionalities using **Native Kotlin/Java**.
+
+#### User App
+[![Google Play - User App](https://img.shields.io/badge/Google_Play-User_App-blue)](https://play.google.com/store/apps/details?id=com.digitalride.user&hl=en_IN)
+- **Description:** An intuitive app that allows users to book rides, choose between different vehicle types (auto, toto, cab), and track their ride in real-time.
+- **Features:**
+  - **Vehicle Options**: Book autos, totos, and cabs seamlessly with easy navigation and selection.
+  - **Real-Time Tracking**: Live tracking feature for monitoring ride status from booking to destination.
+  - **Google Maps Integration**: Enhanced user experience with map view for accurate pickup and drop-off points.
+  - **Google Places API**: Integrated for simplified address search and validation.
+  - **Notifications**: Instant alerts for ride status and updates.
+  - **User-Friendly Interface**: Optimized for smooth booking experiences.
+
+#### Partner/Driver App
+[![Google Play - Partner App](https://img.shields.io/badge/Google_Play-Partner_App-blue)](https://play.google.com/store/apps/details?id=com.digitalride.partner&hl=en_IN)
+- **Description:** A responsive app tailored for partners/drivers to manage and respond to booking requests efficiently.
+- **Features:**
+  - **Booking Notifications**: Immediate alerts for new requests within the partner’s radius.
+  - **Ride Management**: Accept or decline bookings and view details in an organized layout.
+  - **Firebase Realtime Database Integration**: For swift updates on booking statuses and partner locations.
+  - **Availability Toggle**: Easily set availability status to receive bookings.
+  - **Performance Dashboard**: Key metrics and earnings displayed in an easy-to-understand format.
+
+---
+
 ### Languages and Tools:
 
 [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>](https://www.android.com) 
