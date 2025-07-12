@@ -181,7 +181,7 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
 - **Role:** Designed and implemented core functionalities using **Native Kotlin/Java**.
 
 #### User App
-[![Google Play - User App](https://img.shields.io/badge/Google_Play-User_App-blue)](https://play.google.com/store/apps/details?id=com.digitalride.user&hl=en_IN)
+[![Google Play - User App](https://img.shields.io/badge/Google_Play-User_App-blue)](https://play.google.com/store/apps/details?id=cityride.city.passenger)
 - **Description:** An intuitive app that allows users to book rides, choose between different vehicle types (auto, toto, cab), and track their ride in real-time.
 - **Features:**
   - **Vehicle Options**: Book autos, totos, and cabs seamlessly with easy navigation and selection.
@@ -192,7 +192,7 @@ I - **Invoice PDF Download**: Generate and download invoices for claims and serv
   - **User-Friendly Interface**: Optimized for smooth booking experiences.
 
 #### Partner/Driver App
-[![Google Play - Partner App](https://img.shields.io/badge/Google_Play-Partner_App-blue)](https://play.google.com/store/apps/details?id=com.digitalride.partner&hl=en_IN)
+[![Google Play - Partner App](https://img.shields.io/badge/Google_Play-Partner_App-blue)](https://play.google.com/store/apps/details?id=cityride.city.driver)
 - **Description:** A responsive app tailored for partners/drivers to manage and respond to booking requests efficiently.
 - **Features:**
   - **Booking Notifications**: Immediate alerts for new requests within the partner’s radius.
